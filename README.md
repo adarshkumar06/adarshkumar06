@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adarsh Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img aling="right" alt="codegif" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fswlh%2Fwhat-is-programming-d5aa8fb0f280&psig=AOvVaw0eVEoJcpej4g6doqmowuEe&ust=1704863298242000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODSyI3Fz4MDFQAAAAAdAAAAABAD">
+<img aling="right" alt="codegif" width="400" src="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshkumar06&label=Profile%20views&color=0e75b6&style=flat" alt="adarshkumar06" /> </p>
 
